@@ -1,0 +1,16 @@
+PODS:
+  - JFDataSource (0.0.1)
+
+DEPENDENCIES:
+  - JFDataSource
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - JFDataSource
+
+SPEC CHECKSUMS:
+  JFDataSource: e943922437d28ad3858d70d80094a58a99173943
+
+PODFILE CHECKSUM: d790f9d9ed509dcf056a40e12dc278ed5e5e01b3
+
+COCOAPODS: 1.9.1
