@@ -1,6 +1,11 @@
 # JFPagingFlowLayout
 A subclass of UICollectionViewFlowLayout with paging effect
 
+## Import:
+```
+pod 'JFPagingFlowLayout'
+```
+
 ## Screenshot
 
 ![image](https://github.com/hxwxww/JFPagingFlowLayout/raw/master/screenshot/screenshot.jpg)
